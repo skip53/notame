@@ -28,6 +28,9 @@ could break something?
 
     Fill in your answer here
 
+twice
+
 Now that you have your workspace set up, what do you want to try using Git for?
 
+    Typo
    
